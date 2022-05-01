@@ -1,1 +1,1 @@
-[another link](https://theuselessweb.com/)
+[[another link](https://theuselessweb.com/)
